@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1344.72">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco; color: #34bd26; background-color: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco; color: #c33720; background-color: #000000}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco; color: #34bbc7; background-color: #000000}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco; color: #f5f5f5; background-color: #000000}
+    span.s1 {font-variant-ligatures: no-common-ligatures; color: #5330e1}
+    span.s2 {font-variant-ligatures: no-common-ligatures}
+    span.s3 {font-variant-ligatures: no-common-ligatures; color: #00a500; background-color: #e6e600}
+    span.s4 {font-variant-ligatures: no-common-ligatures; color: #f5f5f5}
+    span.s5 {font-variant-ligatures: no-common-ligatures; color: #c33720}
+    span.s6 {font-variant-ligatures: no-common-ligatures; color: #34bbc7}
+    span.s7 {font-variant-ligatures: no-common-ligatures; color: #ce7924}
+    span.s8 {font-variant-ligatures: no-common-ligatures; color: #34bd26}
+    span.s9 {font-variant-ligatures: no-common-ligatures; background-color: #e6e600}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">&lt;?</span><span class="s2">xml vers</span><span class="s3">io</span><span class="s2">n</span><span class="s4">=</span><span class="s5">"1.0"</span><span class="s2"> encoding</span><span class="s4">=</span><span class="s5">"UTF-8"</span><span class="s1">?&gt;</span></p>
+<p class="p2"><span class="s6">&lt;!</span><span class="s7">DOCTYPE</span><span class="s4"> plist </span><span class="s7">PUBLIC</span><span class="s4"> </span><span class="s2">"-//Apple//DTD PLIST 1.0//EN"</span><span class="s4"> </span><span class="s2">"http://www.apple.com/DTDs/PropertyList-1.0.dtd"</span><span class="s6">&gt;</span></p>
+<p class="p3"><span class="s2">&lt;plist </span><span class="s8">vers</span><span class="s3">io</span><span class="s8">n</span><span class="s4">=</span><span class="s5">"1.0"</span><span class="s2">&gt;</span></p>
+<p class="p3"><span class="s2">&lt;dict&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">        </span></span><span class="s6">&lt;key&gt;</span><span class="s2">items</span><span class="s6">&lt;/key&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">        </span></span><span class="s6">&lt;array&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                </span></span><span class="s6">&lt;dict&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                        </span></span><span class="s6">&lt;key&gt;</span><span class="s2">assets</span><span class="s6">&lt;/key&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                        </span></span><span class="s6">&lt;array&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                                </span></span><span class="s6">&lt;dict&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                                        </span></span><span class="s6">&lt;key&gt;</span><span class="s2">kind</span><span class="s6">&lt;/key&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                                        </span></span><span class="s6">&lt;string&gt;</span><span class="s2">software-package</span><span class="s6">&lt;/string&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                                        </span></span><span class="s6">&lt;key&gt;</span><span class="s2">url</span><span class="s6">&lt;/key&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                                        </span></span><span class="s6">&lt;string&gt;</span><span class="s2">https://www.dropbox.com/s/ov37z97voq4o5ja/dinkconnect_20150325_1047.ipa?dl=1</span><span class="s6">&lt;/string&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                                </span></span><span class="s6">&lt;/dict&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                        </span></span><span class="s6">&lt;/array&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                        </span></span><span class="s6">&lt;key&gt;</span><span class="s2">metadata</span><span class="s6">&lt;/key&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                        </span></span><span class="s6">&lt;dict&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                                </span></span><span class="s6">&lt;key&gt;</span><span class="s2">bundle-identifier</span><span class="s6">&lt;/key&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                                </span></span><span class="s6">&lt;string&gt;</span><span class="s2">cls.sms.cole</span><span class="s6">&lt;/string&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                                </span></span><span class="s6">&lt;key&gt;</span><span class="s2">bundle-vers</span><span class="s9">io</span><span class="s2">n</span><span class="s6">&lt;/key&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                                </span></span><span class="s6">&lt;string&gt;</span><span class="s2">1.0</span><span class="s6">&lt;/string&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                                </span></span><span class="s6">&lt;key&gt;</span><span class="s2">kind</span><span class="s6">&lt;/key&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                                </span></span><span class="s6">&lt;string&gt;</span><span class="s2">software</span><span class="s6">&lt;/string&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                                </span></span><span class="s6">&lt;key&gt;</span><span class="s2">title</span><span class="s6">&lt;/key&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                                </span></span><span class="s6">&lt;string&gt;</span><span class="s2">DrinkConnect</span><span class="s6">&lt;/string&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                        </span></span><span class="s6">&lt;/dict&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">                </span></span><span class="s6">&lt;/dict&gt;</span></p>
+<p class="p4"><span class="s2"><span class="Apple-converted-space">        </span></span><span class="s6">&lt;/array&gt;</span></p>
+<p class="p3"><span class="s2">&lt;/dict&gt;</span></p>
+<p class="p3"><span class="s2">&lt;/plist&gt;</span></p>
+</body>
+</html>
